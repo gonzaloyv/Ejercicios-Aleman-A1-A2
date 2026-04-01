@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260401190940L75WXN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604011909407VQW3P</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Curso Aleman A1 - A2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775063229488</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ejercicios</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ejercicios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Ejercicios</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+      <odeBlockId>block-1775060291553-25izc3t83</odeBlockId>
+      <blockName>Tarjetas de Memoria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+          <odeBlockId>block-1775060291553-25izc3t83</odeBlockId>
+          <odeIdeviceId>idevice-1775060291550-da32lxyca</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1775060291550-da32lxyca" data-evaluationb="false" data-evaluationid="7aa8617a-d0db-4fe5-a658-5e6d46e4cf27"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/Vestirse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20visto%20(vestirse)"},{"url":"{{context_path}}/content/resources/ProbarseRopa.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20pruebo%20ropa%20(probarse)"},{"url":"{{context_path}}/content/resources/PonersePerfume.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20pongo%2Fecho%20perfume%20(probarse%2Fecharse)"},{"url":"{{context_path}}/content/resources/MirarseAlEspejo.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20miro%20al%20espejo%20(mirarse)"},{"url":"{{context_path}}/content/resources/Cuidarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20cuido%20la%20piel%20(cuidarse)"},{"url":"{{context_path}}/content/resources/Maquillarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20maquillo%20(maquillarse)"},{"url":"{{context_path}}/content/resources/Levantarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20levanto%20(levantarse)"},{"url":"{{context_path}}/content/resources/Dormirse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20duermo%20(dormirse)"},{"url":"{{context_path}}/content/resources/Despertarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20despiero%20(despertarse)"},{"url":"{{context_path}}/content/resources/Afeitarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20afeito%20(afeitarse)"},{"url":"{{context_path}}/content/resources/Acostarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20acuesto%20(acostarse)"}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"7aa8617a-d0db-4fe5-a658-5e6d46e4cf27","imgCard":"","id":"idevice-1775060291550-da32lxyca","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/Vestirse.jpg" class="js-hidden flipcards-LinkImages">0</a><a href="{{context_path}}/content/resources/ProbarseRopa.jpg" class="js-hidden flipcards-LinkImages">1</a><a href="{{context_path}}/content/resources/PonersePerfume.jpg" class="js-hidden flipcards-LinkImages">2</a><a href="{{context_path}}/content/resources/MirarseAlEspejo.jpg" class="js-hidden flipcards-LinkImages">3</a><a href="{{context_path}}/content/resources/Cuidarse.jpg" class="js-hidden flipcards-LinkImages">4</a><a href="{{context_path}}/content/resources/Maquillarse.jpg" class="js-hidden flipcards-LinkImages">5</a><a href="{{context_path}}/content/resources/Levantarse.jpg" class="js-hidden flipcards-LinkImages">6</a><a href="{{context_path}}/content/resources/Dormirse.jpg" class="js-hidden flipcards-LinkImages">7</a><a href="{{context_path}}/content/resources/Despertarse.jpg" class="js-hidden flipcards-LinkImages">8</a><a href="{{context_path}}/content/resources/Afeitarse.jpg" class="js-hidden flipcards-LinkImages">9</a><a href="{{context_path}}/content/resources/Acostarse.jpg" class="js-hidden flipcards-LinkImages">10</a><div class="flipcards-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+      <odeBlockId>block-1775060865830-2iq2m7lvh</odeBlockId>
+      <blockName>Arrastrar y Soltar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+          <odeBlockId>block-1775060865830-2iq2m7lvh</odeBlockId>
+          <odeIdeviceId>idevice-1775060865828-bdm7g95ye</odeIdeviceId>
+          <odeIdeviceTypeName>dragdrop</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="dragdrop-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1775060865828-bdm7g95ye" data-evaluationb="false" data-evaluationid="7aa8617a-d0db-4fe5-a658-5e6d46e4cf27"></div><div class="dragdrop-instructions gameQP-instructions"><p>Arrastra cada elemento al que corresponda</p></div><div class="dragdrop-DataGame js-hidden">{"typeGame":"dragdrop","author":"","randomCards":true,"instructions":"<p>Arrastra cada elemento al que corresponda</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"definition":"Yo me acuesto a las 10:30","url":"{{context_path}}/content/resources/Acostarse.jpg","author":"","alt":"","audio":""},{"definition":"Mi novio se afeita cada sábado","url":"{{context_path}}/content/resources/Afeitarse.jpg","author":"","alt":"","audio":""},{"definition":"Me cuido todos los días","url":"{{context_path}}/content/resources/Cuidarse.jpg","author":"","alt":"","audio":""},{"definition":"Me despierto muy pronto","url":"{{context_path}}/content/resources/Despertarse.jpg","author":"","alt":"","audio":""},{"definition":"Me duermo muy rápido","url":"","author":"","alt":"","audio":""},{"definition":"Me levanto con energía","url":"{{context_path}}/content/resources/Levantarse.jpg","author":"","alt":"","audio":""},{"definition":"Me maquillo por la mañana","url":"{{context_path}}/content/resources/Maquillarse.jpg","author":"","alt":"","audio":""},{"definition":"Me miro al espejo a menudo","url":"{{context_path}}/content/resources/MirarseAlEspejo.jpg","author":"","alt":"","audio":""},{"definition":"Me pongo perfume cada día","url":"{{context_path}}/content/resources/PonersePerfume.jpg","author":"","alt":"","audio":""},{"definition":"Me pruebo ropa con amigas","url":"{{context_path}}/content/resources/ProbarseRopa.jpg","author":"","alt":"","audio":""},{"definition":"Me visto después de desayunar","url":"{{context_path}}/content/resources/Vestirse.jpg","author":"","alt":"","audio":""}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":1,"mode":1,"typeDrag":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"7aa8617a-d0db-4fe5-a658-5e6d46e4cf27","id":"idevice-1775060865828-bdm7g95ye","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Arrastra","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><a href="{{context_path}}/content/resources/Acostarse.jpg" class="js-hidden dragdrop-LinkImages">0</a><a href="{{context_path}}/content/resources/Afeitarse.jpg" class="js-hidden dragdrop-LinkImages">1</a><a href="{{context_path}}/content/resources/Cuidarse.jpg" class="js-hidden dragdrop-LinkImages">2</a><a href="{{context_path}}/content/resources/Despertarse.jpg" class="js-hidden dragdrop-LinkImages">3</a><a href="{{context_path}}/content/resources/Levantarse.jpg" class="js-hidden dragdrop-LinkImages">5</a><a href="{{context_path}}/content/resources/Maquillarse.jpg" class="js-hidden dragdrop-LinkImages">6</a><a href="{{context_path}}/content/resources/MirarseAlEspejo.jpg" class="js-hidden dragdrop-LinkImages">7</a><a href="{{context_path}}/content/resources/PonersePerfume.jpg" class="js-hidden dragdrop-LinkImages">8</a><a href="{{context_path}}/content/resources/ProbarseRopa.jpg" class="js-hidden dragdrop-LinkImages">9</a><a href="{{context_path}}/content/resources/Vestirse.jpg" class="js-hidden dragdrop-LinkImages">10</a><div class="dragdrop-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+      <odeBlockId>block-1775061651980-c2gxm9m3j</odeBlockId>
+      <blockName>Completa las frases 1-4</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+          <odeBlockId>block-1775061651980-c2gxm9m3j</odeBlockId>
+          <odeIdeviceId>idevice-1775061651977-7yjhzju1o</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1775061651977-7yjhzju1o" data-evaluationb="false" data-evaluationid="7aa8617a-d0db-4fe5-a658-5e6d46e4cf27"></div><div class="completa-feedback-game"><p><img src="{{context_path}}/content/resources/mceclip1.png" /></p></div><div class="completa-instructions"><p>Lee el texto y completa las palabras que faltan.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%C2%FD%E0%B7%A0%A2%FE%F3%B7%A0%A2%FF%F3%B7%D4%A3%F3%FC%F3%B7%A0%D1%B7%A0%A2%EB%FD%B7%A0%A2%D2%D2%FF%F7%B7%A0%A2%FE%F7%E4%F3%FC%E6%FD%D2%D2%B7%A0%A2%FF%E7%EB%B7%A0%A2%E6%F7%FF%E2%E0%F3%FC%FD%B7%A0%A2%E2%FD%E0%E3%E7%F7%B7%A0%A2%E6%E0%F3%F0%F3%F8%FD%B7%A0%A2%F3%B7%A0%A2%FE%F3%E1%B7%A0%A2%AA%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%D3%FC%E6%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%E1%F3%FE%FB%E0%B7%A0%D1%B7%A0%A2%E1%FB%F7%FF%E2%E0%F7%B7%A0%A2%D2%D2%FF%F7%B7%A0%A2%FF%FB%E0%FD%D2%D2%B7%A0%A2%EB%B7%A0%A2%F1%FD%FF%E2%E0%E7%F7%F0%FD%B7%A0%A2%E1%FB%B7%A0%A2%E6%FD%F6%FD%B7%A0%A2%F7%E1%E6%B7%D7%A3%B7%A0%A2%F0%FB%F7%FC%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%DF%FB%B7%A0%A2%FA%F7%E0%FF%F3%FC%F3%B7%A0%A2%D2%D2%E1%F7%B7%A0%A2%FF%F3%E3%E7%FB%FE%FE%F3%D2%D2%B7%A0%A2%E6%FD%F6%FD%E1%B7%A0%A2%FE%FD%E1%B7%A0%A2%F6%B7%D7%D6%F3%E1%B7%A0%A2%F3%FC%E6%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%FB%E0%B7%A0%A2%F3%FE%B7%A0%A2%FB%FC%E1%E6%FB%E6%E7%E6%FD%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%D6%F7%E1%E2%E7%B7%D7%AB%E1%B7%A0%A2%F6%F7%B7%A0%A2%F6%E7%F1%FA%F3%E0%FF%F7%B7%A0%D1%B7%A0%A2%D2%D2%FF%F7%B7%A0%A2%E2%FD%FC%F5%FD%D2%D2%B7%A0%A2%E0%FD%E2%F3%B7%A0%A2%F1%B7%D4%A1%FF%FD%F6%F3%B7%A0%A2%E2%F3%E0%F3%B7%A0%A2%F7%E1%E6%F3%E0%B7%A0%A2%F7%FC%B7%A0%A2%F1%F3%E1%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%FB%FF%F5%B7%A0%A2%E1%E0%F1%B7%A1%D6%B7%A0%A0%F0%FE%FD%F0%B7%A1%D3%FA%E6%E6%E2%E1%B7%A1%D3%BD%BD%F3%E2%E2%BC%F7%EA%F7%FE%F7%F3%E0%FC%FB%FC%F5%BC%FC%F7%E6%BD%A4%A2%A3%A1%F0%F1%F4%AA%BF%F6%AA%F6%F7%BF%A6%A2%A0%A1%BF%F0%A7%F1%A2%BF%F0%F3%F4%F3%F1%A6%A7%A0%AA%F3%AA%AB%B7%A0%A0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%F3%F3%AA%A4%A3%A5%F3%BF%F6%A2%F6%F0%BF%A6%F4%F7%A7%BF%F3%A4%A7%AA%BF%A7%F7%A4%F6%A6%A4%F7%A6%F1%F4%A0%A5%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A7%A2%A4%A3%A4%A7%A3%AB%A5%A5%BF%A5%EB%F8%FA%E8%F8%E7%A3%FD%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>Por la mañana, yo @@me levanto@@ muy temprano porque trabajo a las 8.</p>
+<hr />
+<p>Antes de salir, siempre @@me miro@@ y compruebo si todo está bien.</p>
+<hr />
+<p>Mi hermana @@se maquilla@@ todos los días antes de ir al instituto.</p>
+<hr />
+<p>Después de ducharme, @@me pongo@@ ropa cómoda para estar en casa.</p></div><div class="cmpt-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+      <odeBlockId>block-1775062447570-1p6zw84ft</odeBlockId>
+      <blockName>Completa las frases 5-8</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+          <odeBlockId>block-1775062447570-1p6zw84ft</odeBlockId>
+          <odeIdeviceId>idevice-1775062447568-bseq4s32m</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1775062447568-bseq4s32m" data-evaluationb="false" data-evaluationid="7aa8617a-d0db-4fe5-a658-5e6d46e4cf27"></div><div class="completa-feedback-game"><p><img src="{{context_path}}/content/resources/mceclip1.png" /></p></div><div class="completa-instructions"><p>Lee el texto y completa las palabras que faltan.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%DF%FB%B7%A0%A2%E2%F3%F6%E0%F7%B7%A0%A2%D2%D2%E1%F7%B7%A0%A2%E2%FD%FC%F7%D2%D2%B7%A0%A2%E2%F7%E0%F4%E7%FF%F7%B7%A0%A2%E1%FD%FE%FD%B7%A0%A2%F7%FC%B7%A0%A2%FD%F1%F3%E1%FB%FD%FC%F7%E1%B7%A0%A2%F7%E1%E2%F7%F1%FB%F3%FE%F7%E1%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%DC%FD%E1%FD%E6%E0%FD%E1%B7%A0%A2%D2%D2%FC%FD%E1%B7%A0%A2%F3%F1%FD%E1%E6%F3%FF%FD%E1%D2%D2%B7%A0%A2%FF%E7%EB%B7%A0%A2%E6%F3%E0%F6%F7%B7%A0%A2%FE%FD%E1%B7%A0%A2%F4%FB%FC%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%E1%F7%FF%F3%FC%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%D3%FC%E6%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%F3%F1%FD%E1%E6%F3%E0%FF%F7%B7%A0%D1%B7%A0%A2%E1%FB%F7%FF%E2%E0%F7%B7%A0%A2%D2%D2%FF%F7%B7%A0%A2%F1%E7%FB%F6%FD%D2%D2%B7%A0%A2%FE%F3%B7%A0%A2%E2%FB%F7%FE%B7%A0%A2%F1%FD%FC%B7%A0%A2%F1%E0%F7%FF%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%DF%FB%B7%A0%A2%FC%FD%E4%FB%FD%B7%A0%A2%D2%D2%E1%F7%B7%A0%A2%F3%F4%F7%FB%E6%F3%D2%D2%B7%A0%A2%F1%F3%F6%F3%B7%A0%A2%FF%F3%B7%D4%A3%F3%FC%F3%B7%A0%A2%E2%FD%E0%E3%E7%F7%B7%A0%A2%FC%FD%B7%A0%A2%FE%F7%B7%A0%A2%F5%E7%E1%E6%F3%B7%A0%A2%FE%F3%B7%A0%A2%F0%F3%E0%F0%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%FB%FF%F5%B7%A0%A2%E1%E0%F1%B7%A1%D6%B7%A0%A0%F0%FE%FD%F0%B7%A1%D3%FA%E6%E6%E2%E1%B7%A1%D3%BD%BD%F3%E2%E2%BC%F7%EA%F7%FE%F7%F3%E0%FC%FB%FC%F5%BC%FC%F7%E6%BD%A4%A2%A3%A1%F0%F1%F4%AA%BF%F6%AA%F6%F7%BF%A6%A2%A0%A1%BF%F0%A7%F1%A2%BF%F0%F3%F4%F3%F1%A6%A7%A0%AA%F3%AA%AB%B7%A0%A0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%F3%F3%AA%A4%A3%A5%F3%BF%F6%A2%F6%F0%BF%A6%F4%F7%A7%BF%F3%A4%A7%AA%BF%A7%F7%A4%F6%A6%A4%F7%A6%F1%F4%A0%A5%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A7%A2%A4%A0%A6%A6%A5%A7%A4%AA%BF%F0%E1%F7%E3%A6%E1%A1%A0%FF%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>Mi padre @@se pone@@ perfume solo en ocasiones especiales.</p>
+<hr />
+<p>Nosotros @@nos acostamos@@ muy tarde los fines de semana.</p>
+<hr />
+<p>Antes de acostarme, siempre @@me cuido@@ la piel con crema.</p>
+<hr />
+<p>Mi novio @@se afeita@@ cada mañana porque no le gusta la barba.</p></div><div class="cmpt-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+      <odeBlockId>block-1775062643512-unqymtnj5</odeBlockId>
+      <blockName>Completa las frases 9-12</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>79e5642a-9a15-4446-9560-676ad7f41778</odePageId>
+          <odeBlockId>block-1775062643512-unqymtnj5</odeBlockId>
+          <odeIdeviceId>idevice-1775062643510-4i4684kpj</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1775062643510-4i4684kpj" data-evaluationb="false" data-evaluationid="7aa8617a-d0db-4fe5-a658-5e6d46e4cf27"></div><div class="completa-feedback-game"><p><img src="{{context_path}}/content/resources/mceclip1.png" /></p></div><div class="completa-instructions"><p>Lee el texto y completa las palabras que faltan.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%D0%D4%C6%B7%D4%D3%B7%A0%A2%D2%D2%E6%F7%B7%A0%A2%FF%FB%E0%F3%E1%D2%D2%B7%A0%A2%F3%FE%B7%A0%A2%F7%E1%E2%F7%F8%FD%B7%A0%A2%F3%FC%E6%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%E1%F3%FE%FB%E0%B7%A0%A2%F6%F7%B7%A0%A2%F1%F3%E1%F3%B7%A1%D4%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%DE%FD%E1%B7%A0%A2%E1%B7%D7%A3%F0%F3%F6%FD%E1%B7%A0%D1%B7%A0%A2%D2%D2%FF%F7%B7%A0%A2%E2%E0%E7%F7%F0%FD%D2%D2%B7%A0%A2%E0%FD%E2%F3%B7%A0%A2%FC%E7%F7%E4%F3%B7%A0%A2%F1%FD%FC%B7%A0%A2%FF%FB%E1%B7%A0%A2%F3%FF%FB%F5%F3%E1%B7%A0%A2%F7%FC%B7%A0%A2%F7%FE%B7%A0%A2%F1%F7%FC%E6%E0%FD%B7%A0%A2%F1%FD%FF%F7%E0%F1%FB%F3%FE%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%D1%E7%F3%FC%F6%FD%B7%A0%A2%F7%E1%E6%FD%EB%B7%A0%A2%F1%F3%FC%E1%F3%F6%FD%B7%A0%D1%B7%A0%A2%D2%D2%FF%F7%B7%A0%A2%F6%E7%F7%E0%FF%FD%D2%D2%B7%A0%A2%FF%E7%EB%B7%A0%A2%E0%B7%D7%A3%E2%FB%F6%FD%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%FA%E0%B7%A0%A2%BD%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%DC%FD%E0%FF%F3%FE%FF%F7%FC%E6%F7%B7%A0%D1%B7%A0%A2%D2%D2%FF%F7%B7%A0%A2%FE%F7%E4%F3%FC%E6%FD%D2%D2%B7%A0%A2%F3%B7%A0%A2%FE%F3%E1%B7%A0%A2%A5%B7%A1%D3%A2%A2%B7%A0%D1%B7%A0%A2%E2%F7%E0%FD%B7%A0%A2%FA%FD%EB%B7%A0%A2%F7%E1%B7%A0%A2%F6%FD%FF%FB%FC%F5%FD%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%FB%FF%F5%B7%A0%A2%E1%E0%F1%B7%A1%D6%B7%A0%A0%F0%FE%FD%F0%B7%A1%D3%FA%E6%E6%E2%E1%B7%A1%D3%BD%BD%F3%E2%E2%BC%F7%EA%F7%FE%F7%F3%E0%FC%FB%FC%F5%BC%FC%F7%E6%BD%A4%A2%A3%A1%F0%F1%F4%AA%BF%F6%AA%F6%F7%BF%A6%A2%A0%A1%BF%F0%A7%F1%A2%BF%F0%F3%F4%F3%F1%A6%A7%A0%AA%F3%AA%AB%B7%A0%A0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%F3%F3%AA%A4%A3%A5%F3%BF%F6%A2%F6%F0%BF%A6%F4%F7%A7%BF%F3%A4%A7%AA%BF%A7%F7%A4%F6%A6%A4%F7%A6%F1%F4%A0%A5%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A7%A2%A4%A0%A4%A6%A1%A7%A3%A2%BF%A6%FB%A6%A4%AA%A6%F9%E2%F8%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>¿Tú @@te miras@@ al espejo antes de salir de casa?</p>
+<hr />
+<p>Los sábados, @@me pruebo@@ ropa nueva con mis amigas en el centro comercial.</p>
+<hr />
+<p>Cuando estoy cansado, @@me duermo@@ muy rápido.</p>
+<hr />
+<p>Normalmente, @@me levanto@@ a las 7:00, pero hoy es domingo.</p></div><div class="cmpt-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
