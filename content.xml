@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202604012039214X0DF4</value>
+    <value>202604061638396OJFCV</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260401203921AE9V4P</value>
+    <value>20260406163839QQ3OVR</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1775068756553</value>
+    <value>1775486241752</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -81,7 +81,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+  <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Ejercicios</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -117,7 +117,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+      <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
       <odeBlockId>block-1775060291553-25izc3t83</odeBlockId>
       <blockName>Tarjetas de Memoria</blockName>
       <iconName></iconName>
@@ -146,11 +146,11 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+          <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
           <odeBlockId>block-1775060291553-25izc3t83</odeBlockId>
           <odeIdeviceId>idevice-1775060291550-da32lxyca</odeIdeviceId>
           <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1775060291550-da32lxyca" data-evaluationb="false" data-evaluationid="7aa8617a-d0db-4fe5-a658-5e6d46e4cf27"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/Vestirse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20visto%20(vestirse)"},{"url":"{{context_path}}/content/resources/ProbarseRopa.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20pruebo%20ropa%20(probarse)"},{"url":"{{context_path}}/content/resources/PonersePerfume.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20pongo%2Fecho%20perfume%20(probarse%2Fecharse)"},{"url":"{{context_path}}/content/resources/MirarseAlEspejo.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20miro%20al%20espejo%20(mirarse)"},{"url":"{{context_path}}/content/resources/Cuidarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20cuido%20la%20piel%20(cuidarse)"},{"url":"{{context_path}}/content/resources/Maquillarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20maquillo%20(maquillarse)"},{"url":"{{context_path}}/content/resources/Levantarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20levanto%20(levantarse)"},{"url":"{{context_path}}/content/resources/Dormirse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20duermo%20(dormirse)"},{"url":"{{context_path}}/content/resources/Despertarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20despiero%20(despertarse)"},{"url":"{{context_path}}/content/resources/Afeitarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20afeito%20(afeitarse)"},{"url":"{{context_path}}/content/resources/Acostarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20acuesto%20(acostarse)"}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"7aa8617a-d0db-4fe5-a658-5e6d46e4cf27","imgCard":"","id":"idevice-1775060291550-da32lxyca","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/Vestirse.jpg" class="js-hidden flipcards-LinkImages">0</a><a href="{{context_path}}/content/resources/ProbarseRopa.jpg" class="js-hidden flipcards-LinkImages">1</a><a href="{{context_path}}/content/resources/PonersePerfume.jpg" class="js-hidden flipcards-LinkImages">2</a><a href="{{context_path}}/content/resources/MirarseAlEspejo.jpg" class="js-hidden flipcards-LinkImages">3</a><a href="{{context_path}}/content/resources/Cuidarse.jpg" class="js-hidden flipcards-LinkImages">4</a><a href="{{context_path}}/content/resources/Maquillarse.jpg" class="js-hidden flipcards-LinkImages">5</a><a href="{{context_path}}/content/resources/Levantarse.jpg" class="js-hidden flipcards-LinkImages">6</a><a href="{{context_path}}/content/resources/Dormirse.jpg" class="js-hidden flipcards-LinkImages">7</a><a href="{{context_path}}/content/resources/Despertarse.jpg" class="js-hidden flipcards-LinkImages">8</a><a href="{{context_path}}/content/resources/Afeitarse.jpg" class="js-hidden flipcards-LinkImages">9</a><a href="{{context_path}}/content/resources/Acostarse.jpg" class="js-hidden flipcards-LinkImages">10</a><div class="flipcards-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1775060291550-da32lxyca" data-evaluationb="false" data-evaluationid="7aa8617a-d0db-4fe5-a658-5e6d46e4cf27"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/Vestirse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20visto%20(vestirse)"},{"url":"{{context_path}}/content/resources/ProbarseRopa.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20pruebo%20ropa%20(probarse)"},{"url":"{{context_path}}/content/resources/PonersePerfume.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20pongo%2Fecho%20perfume%20(probarse%2Fecharse)"},{"url":"{{context_path}}/content/resources/MirarseAlEspejo.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20miro%20al%20espejo%20(mirarse)"},{"url":"{{context_path}}/content/resources/Cuidarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20cuido%20la%20piel%20(cuidarse)"},{"url":"{{context_path}}/content/resources/Maquillarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20maquillo%20(maquillarse)"},{"url":"{{context_path}}/content/resources/Levantarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20levanto%20(levantarse)"},{"url":"{{context_path}}/content/resources/Dormirse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20duermo%20(dormirse)"},{"url":"{{context_path}}/content/resources/Despertarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20despierto%20(despertarse)"},{"url":"{{context_path}}/content/resources/Afeitarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20afeito%20(afeitarse)"},{"url":"{{context_path}}/content/resources/Acostarse.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Yo%20me%20acuesto%20(acostarse)"}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"7aa8617a-d0db-4fe5-a658-5e6d46e4cf27","imgCard":"","id":"idevice-1775060291550-da32lxyca","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/Vestirse.jpg" class="js-hidden flipcards-LinkImages">0</a><a href="{{context_path}}/content/resources/ProbarseRopa.jpg" class="js-hidden flipcards-LinkImages">1</a><a href="{{context_path}}/content/resources/PonersePerfume.jpg" class="js-hidden flipcards-LinkImages">2</a><a href="{{context_path}}/content/resources/MirarseAlEspejo.jpg" class="js-hidden flipcards-LinkImages">3</a><a href="{{context_path}}/content/resources/Cuidarse.jpg" class="js-hidden flipcards-LinkImages">4</a><a href="{{context_path}}/content/resources/Maquillarse.jpg" class="js-hidden flipcards-LinkImages">5</a><a href="{{context_path}}/content/resources/Levantarse.jpg" class="js-hidden flipcards-LinkImages">6</a><a href="{{context_path}}/content/resources/Dormirse.jpg" class="js-hidden flipcards-LinkImages">7</a><a href="{{context_path}}/content/resources/Despertarse.jpg" class="js-hidden flipcards-LinkImages">8</a><a href="{{context_path}}/content/resources/Afeitarse.jpg" class="js-hidden flipcards-LinkImages">9</a><a href="{{context_path}}/content/resources/Acostarse.jpg" class="js-hidden flipcards-LinkImages">10</a><div class="flipcards-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
@@ -171,7 +171,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+      <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
       <odeBlockId>block-1775060865830-2iq2m7lvh</odeBlockId>
       <blockName>Arrastrar y Soltar</blockName>
       <iconName></iconName>
@@ -200,7 +200,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+          <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
           <odeBlockId>block-1775060865830-2iq2m7lvh</odeBlockId>
           <odeIdeviceId>idevice-1775060865828-bdm7g95ye</odeIdeviceId>
           <odeIdeviceTypeName>dragdrop</odeIdeviceTypeName>
@@ -225,7 +225,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+      <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
       <odeBlockId>block-1775061651980-c2gxm9m3j</odeBlockId>
       <blockName>Completa las frases 1-4</blockName>
       <iconName></iconName>
@@ -254,7 +254,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+          <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
           <odeBlockId>block-1775061651980-c2gxm9m3j</odeBlockId>
           <odeIdeviceId>idevice-1775061651977-7yjhzju1o</odeIdeviceId>
           <odeIdeviceTypeName>complete</odeIdeviceTypeName>
@@ -285,7 +285,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+      <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
       <odeBlockId>block-1775062447570-1p6zw84ft</odeBlockId>
       <blockName>Completa las frases 5-8</blockName>
       <iconName></iconName>
@@ -314,7 +314,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+          <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
           <odeBlockId>block-1775062447570-1p6zw84ft</odeBlockId>
           <odeIdeviceId>idevice-1775062447568-bseq4s32m</odeIdeviceId>
           <odeIdeviceTypeName>complete</odeIdeviceTypeName>
@@ -345,7 +345,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+      <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
       <odeBlockId>block-1775062643512-unqymtnj5</odeBlockId>
       <blockName>Completa las frases 9-12</blockName>
       <iconName></iconName>
@@ -374,7 +374,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnge3uaz-0hc8x2ckw</odePageId>
+          <odePageId>page-mnnanzx0-hiwgf9h84</odePageId>
           <odeBlockId>block-1775062643512-unqymtnj5</odeBlockId>
           <odeIdeviceId>idevice-1775062643510-4i4684kpj</odeIdeviceId>
           <odeIdeviceTypeName>complete</odeIdeviceTypeName>
